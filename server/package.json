@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tan-man21/git-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tan-man21/git-test/issues"
+  },
+  "homepage": "https://github.com/tan-man21/git-test#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.1"
+  }
+}
